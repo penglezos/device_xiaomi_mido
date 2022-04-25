@@ -5,3 +5,6 @@
 # DPM
 persist.vendor.dpm.feature=11
 persist.vendor.dpm.loglevel=0
+
+# Bluetooth
+bluetooth.device.class_of_device=90,2,12
